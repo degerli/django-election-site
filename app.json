@@ -3,6 +3,7 @@
   "description": "A simple election web app",
   "repository": "https://github.com/degerli/django-election-site",
   "keywords": ["python", "django", "site", "election"],
+  "image": "heroku/python",
   "env": {
     "DJANGO_SECRET_KEY": {
       "description": "A randomly generated secret to secure your Django installation",
