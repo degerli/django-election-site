@@ -16,8 +16,7 @@
       "options": {
         "version": "9.5"
       }
-    },
-    "sendgrid:starter",
+    }
   ],
   "scripts": {
     "postdeploy": "python manage.py migrate --noinput"
