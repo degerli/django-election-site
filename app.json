@@ -1,7 +1,7 @@
 {
   "name": "django-election-site",
   "description": "A simple election web app",
-  "repository": "https://github.com/saalmerol/django-election-site",
+  "repository": "https://github.com/degerli/django-election-site",
   "keywords": ["python", "django", "site", "election"],
   "env": {
     "DJANGO_SECRET_KEY": {
